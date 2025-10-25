@@ -83,7 +83,7 @@ It determines infection severity and controls pesticide spraying automatically �
 ## 📎 Presentation
 
 The full project presentation is available here:  
-👉 [SIH_PlantDoctor.pptx](./SIH_PlantDoctor.pptx)
+👉 [SIH_PlantDoctor.pptx](https://docs.google.com/presentation/d/1GEXPmPjXQ1biRBvVljo-uVxOdeXiF8EU0WzfXufBxwo/edit?usp=sharing)
 
 ---
 
